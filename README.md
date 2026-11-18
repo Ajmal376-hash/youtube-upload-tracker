@@ -89,6 +89,4 @@ The Excel dashboard provides an organized view of collected uploads.
 
 Electronics and Communication Engineering 
 
----
 
-If you find this project useful, feel free to star the repository!
